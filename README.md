@@ -52,4 +52,3 @@
 <br clear="both">
 
 ###
-Profile Readme Generator
