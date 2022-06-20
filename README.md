@@ -51,7 +51,7 @@
 
 <br clear="both">
 
-<img href="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+<img href="[https://profile-readme-generator.com/assets/snake.svg](https://profile-readme-generator.com/assets/snake.svg)" alt="Snake animation" />
 
 ###
 Profile Readme Generator
