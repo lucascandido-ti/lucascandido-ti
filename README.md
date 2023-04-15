@@ -1,4 +1,4 @@
-<h1 align="left">Olá👋! Eu sou o Lucas Candido, e sou desenvolvedor FullStack a +2 anos.<br>Seja muito bem vindo(a) ao meu repositório ☻</h1>
+<h1 align="left">Olá👋! Eu sou o Lucas Candido, e sou desenvolvedor FullStack a +4 anos.<br>Seja muito bem vindo(a) ao meu repositório ☻</h1>
 
 ###
 
